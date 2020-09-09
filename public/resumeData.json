@@ -1,66 +1,66 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Luis Antonio Cruz",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer by Day, Freelancer by Night.",
+    "image": "1-am-luis.jpg",
+    "bio": "My name is Luis, I'm a Full Stack ReactJS Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "tricubeart@gmail.com",
+    "phone": "+52 4432852746",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Cumbres elite 7° sector",
+      "city": "Mexico",
+      "state": "MTY",
+      "zip": "64100"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/profile.php?id=100012674940631",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/luis-antonio-cruz-aguilar-86262a16a/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/luisantoniocrag_",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/luisantoniocrag",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school":"UnADM",
+        "degree": "Software Engineer",
+        "graduated": "Current",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Pictosis",
+        "title": "Frontend Developer",
+        "years": "June 2020 - Current",
+        "description": "Maintain the pictosis platform and make integrations with the Nervos Blockchain network."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Decred",
+        "title": "Frontend Developer",
+        "years": "June 2019 - March 2020",
+        "description": "I contributed to most Decred UI libraries along with writing software made in Electron."
       }
     ],
     "skills": [
@@ -70,69 +70,45 @@
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Figma && Adobe XD",
         "level": "55%"
       },
       {
-        "name": "HTML5",
+        "name": "NODE JS",
         "level": "80%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Pictosis.com",
+        "category": "NFT playground for designers & crtyptoartists (ReactJS, NodeJS, Rust, CKB)",
+        "image": "pictosis.png",
+        "url": "https://github.com/Pictosis-Development"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Very professional, always attentive to customer specifications. I collaborated with him on Decred and other projects. I would do it again. My greatest successes to you.",
+        "user": "Lorena Franco"
       }
     ]
   }
